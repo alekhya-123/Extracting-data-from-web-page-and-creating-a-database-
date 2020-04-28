@@ -1,0 +1,17 @@
+for python 2:
+		1.pip install beautifulsoup4
+			or		
+		apt-get install python-bs4
+    
+		2.pip install MySQL-python
+    
+		3.pip install requests
+    
+for python 3:
+		1.pip3 install beautifulsoup4
+			or
+		apt-get install python3-bs4
+    
+		2.pip3 install mysqlclient
+    
+		3.pip3 install requests
